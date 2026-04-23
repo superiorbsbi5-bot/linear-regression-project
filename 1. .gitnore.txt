@@ -1,0 +1,9 @@
+. # Python
+. # Virtual Environment
+. # Jupyter
+. # Data
+. # Models 
+. # Logs
+. # IDE
+. # Environment Variables
+. # OS Files
